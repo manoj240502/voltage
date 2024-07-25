@@ -1,0 +1,17 @@
+1.Start: Begin the process.
+
+2.Initialize ADC: Set up the ADC for reading.
+
+3.Read ADC Value: Read the digital value from the ADC.
+
+4.Convert ADC Data to Voltage: Use the ADC value to calculate the corresponding voltage.
+
+5.Scale Voltage: Adjust the voltage based on the system requirements.
+
+6.Use Scaled Value: Utilize the scaled analog value for your application.
+
+7.Delay: Optionally, insert a delay before repeating the process.
+
+8.Repeat: Continue the process in a loop if needed.
+
+9.End: Terminate the process.
